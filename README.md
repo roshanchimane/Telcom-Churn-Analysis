@@ -23,9 +23,9 @@ The project includes the following visual tools:
 4. **Personalized Retention Strategies:** Implement targeted engagement for high-risk customer segments.
 
 ## Project Files
-- `Customer_ChurnAnalysis.ipynb` – Jupyter Notebook containing the analysis and visualizations.
+- `Customer_ChurnAnalysis.ipynb` – Jupyter Notebook contains the analysis and visualizations.
 - `Customer Churn.csv` – Dataset used for analysis.
-- `README.md` – This document providing an overview of the project.
+- `README.md` – This document provides an overview of the project.
 
 ## How to Use
 1. Clone the repository or download the project files.
