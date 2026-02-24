@@ -16,7 +16,7 @@ The project includes the following visual tools:
 - **Heatmaps:** Correlation analysis between churn and different influencing factors.
 - **Pie Charts:** Breakdown of churn percentages based on contract types and demographics.
 
-## Strategic Recommendations
+### Strategic Recommendations
 1. **Encourage Long-Term Contracts:** Provide incentives for annual subscriptions to lower churn.
 2. **Promote Service Bundling:** Encourage customers to opt for additional services to improve retention.
 3. **Enhance Fiber-Optic Service:** Address customer dissatisfaction to reduce churn rates.
