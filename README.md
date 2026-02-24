@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes customer churn patterns to identify key factors affecting retention and attrition. Using data-driven insights and visualizations, the study provides actionable recommendations to enhance customer retention strategies.
 
-## Key Insights
+### Key Insights
 - **Overall Churn Rate:** 26% of customers have churned.
 - **Contract Type Impact:** Month-to-month contracts have a 45% churn rate, whereas one- and two-year contracts have significantly lower churn rates (11%).
 - **Demographics:** Senior citizens churn at 41%, while younger customers churn at 22%.
