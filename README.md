@@ -10,7 +10,7 @@ This project analyzes customer churn patterns to identify key factors affecting 
 - **Internet Service Impact:** Fiber-optic users have a 30% churn rate compared to 18% for DSL users.
 - **Bundled Services:** Customers with additional services (e.g., security, tech support) churn at 15%, while those without churn at 40%.
 
-## Data Visualizations
+### Data Visualizations
 The project includes the following visual tools:
 - **Bar Charts:** Churn distribution across various customer segments.
 - **Heatmaps:** Correlation analysis between churn and different influencing factors.
