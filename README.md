@@ -32,7 +32,7 @@ The project includes the following visual tools:
 2. Install required dependencies (`pandas`, `numpy`, `matplotlib`, `seaborn`).
 3. Open `Customer_ChurnAnalysis.ipynb` in Jupyter Notebook and run the analysis.
 
-## Dependencies
+### Dependencies
 - Python 3.x
 - Pandas
 - NumPy
