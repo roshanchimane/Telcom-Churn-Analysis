@@ -27,7 +27,7 @@ The project includes the following visual tools:
 - `Customer Churn.csv` – Dataset used for analysis.
 - `README.md` – This document provides an overview of the project.
 
-## How to Use
+### How to Use
 1. Clone the repository or download the project files.
 2. Install required dependencies (`pandas`, `numpy`, `matplotlib`, `seaborn`).
 3. Open `Customer_ChurnAnalysis.ipynb` in Jupyter Notebook and run the analysis.
