@@ -39,6 +39,6 @@ The project includes the following visual tools:
 - Matplotlib
 - Seaborn
 
-## Conclusion
+### Conclusion
 This analysis serves as a foundation for understanding customer churn behavior and implementing strategies to improve retention. Future work can focus on predictive modeling to forecast churn likelihood and proactive intervention strategies.
 
