@@ -22,7 +22,7 @@ The project includes the following visual tools:
 3. **Enhance Fiber-Optic Service:** Address customer dissatisfaction to reduce churn rates.
 4. **Personalized Retention Strategies:** Implement targeted engagement for high-risk customer segments.
 
-### Project Files
+## Project Files
 - `Customer_ChurnAnalysis.ipynb` – Jupyter Notebook contains the analysis and visualizations.
 - `Customer Churn.csv` – Dataset used for analysis.
 - `README.md` – This document provides an overview of the project.
