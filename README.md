@@ -7,7 +7,7 @@ This project analyzes customer churn patterns to identify key factors affecting 
 - **Overall Churn Rate:** 26% of customers have churned.
 - **Contract Type Impact:** Month-to-month contracts have a 45% churn rate, whereas one- and two-year contracts have significantly lower churn rates (11%).
 - **Demographics:** Senior citizens churn at 41%, while younger customers churn at 22%.
-- **Internet Service Impact:** Fiber-optic users have a 30% churn rate compared to 18% for DSL users.
+- **Internet Service Impact:** Fiber-optic users have a 30% churn rate compared to 18% for DSL users. 
 - **Bundled Services:** Customers with additional services (e.g., security, tech support) churn at 15%, while those without churn at 40%.
 
 ### Data Visualizations 
