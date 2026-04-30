@@ -1,5 +1,5 @@
 # Customer Churn Analysis
- 
+
 ### Project Overview  
 This project analyzes customer churn patterns to identify key factors affecting retention and attrition. Using data-driven insights and visualizations, the study provides actionable recommendations to enhance customer retention strategies. 
 
